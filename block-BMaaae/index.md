@@ -10,6 +10,9 @@ Write code to:-
 - rename `TT` collection to `tennis`.
 - create a capped collection called `khokho` which should have max 3 documents.
   Try inserting more than 3 and see what happens?
+```js
+//it deleted older one document
+  ```
 - check whether a collection is capped or not?
 - drop all documents from `football` collection.
 - delete cricket collection completely.
